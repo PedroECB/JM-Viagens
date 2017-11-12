@@ -1,0 +1,32 @@
+@charset:"utf-8";
+
+
+nav{margin-left:800px; 
+    position:absolute;
+    top:30px; }
+
+nav li{display: inline-block;
+       margin:;
+       background-color: silver;
+       padding: 10px;
+       border-radius: 5px;
+      }
+
+nav a{text-decoration: none;
+      color: #3b2b2b;}     
+
+nav a:hover{color:white;}       
+
+
+img#logo{margin-left: 220px;}
+img#imagem-principal{}
+
+
+p.main-paragraph{text-indent:;
+                 text-align: justify;
+                 color: #413e3e;
+                }
+
+article{width: 900px;
+        margin-left:220px;
+        margin-top:30px;  }
